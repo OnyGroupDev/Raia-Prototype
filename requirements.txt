@@ -1,0 +1,17 @@
+
+# Core Dependencies
+fastapi
+uvicorn
+requests
+pandas
+numpy
+
+# AI & NLP (If needed)
+transformers
+torch
+scikit-learn
+
+# Database (If using PostgreSQL)
+psycopg2
+SQLAlchemy
+
